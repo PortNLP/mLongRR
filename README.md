@@ -1,6 +1,6 @@
 # Multilingual Evaluation of Long Context Retrieval and Reasoning (mLongRR)
 
-This repository contains the materials for our paper, [Multilingual Evaluation of Long Context Retrieval and Reasoning](https://aclanthology.org/2024.mrl-1.18/) presented at MRL 2024 (@EMNLP). The scripts and the notebooks can be used to reproduce the experiments with your dataset.
+This repository contains materials for our paper, [Multilingual Evaluation of Long Context Retrieval and Reasoning](https://aclanthology.org/2024.mrl-1.18/) presented at MRL 2024 (@EMNLP). The scripts and the notebooks can be used to reproduce the experiments with your dataset.
 
 ## Authors
 
